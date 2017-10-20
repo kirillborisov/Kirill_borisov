@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd0020",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Петровский остров",
+        "text": "Зимуют пароходы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.239868164062496,
+          59.96476385575405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9044e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Исаакиевская площадь",
+        "text": "А над Невой — посольства полумира"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.30704140663147,
+          59.93286066618661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fa0322",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Адмиралтейство",
+        "text": "Адмиралтейство, солнце, тишина!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.309873819351193,
+          59.936623164229026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fc012d",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "здание Сената и Синода",
+        "text": "Над желтизной правительственных зданий"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.302245616912842,
+          59.935354712581635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f50731",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Сенатская площадь",
+        "text": "На площади Сената — вал сугроба"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.301644802093506,
+          59.936064191515825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fb024d",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Санкт-Петербург",
+        "description": "Черпали воду ялики, и чайки  Морские посещали склад пеньки,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.304906368255615,
+          59.930516951681184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f80554",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Мариинский театр",
+        "text": "Где, продавая сбитень или сайки,  Лишь оперные бродят мужики."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.296945571899418,
+          59.92604408282543
+        ]
+      }
+    }
+  ]
+}
